@@ -9,7 +9,7 @@ background = rgba(40, 42, 56)
 # If unset, will reverse foreground and background
 highlight = #2f2f2f
 
-# Colors from color0 to color254 can be set
+# Colors from original hyper-snazzy theme
 color0 = rgb(40,42,56)
 color1 = rgb(255,92,87)
 color2 = rgb(90,247,142)
@@ -18,3 +18,12 @@ color4 = rgb(87,199,255)
 color5 = rgb(255,106,193)
 color6 = rgb(154,237,254)
 color7 = rgb(241,241,240)
+
+# other defaul termite colors
+color9 = #dca3a3
+color10 = #c3bf9f
+color11 = #f0dfaf
+color12 = #94bff3
+color13 = #ec93d3
+color14 = #93e0e3
+color15 = #ffffff
