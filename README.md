@@ -6,7 +6,7 @@
 
 ## Install
 
-Extend your `$HOME/.config/termite` with [`config`](https://raw.githubusercontent.com/kbobrowski/termite-snazzy/master/config)
+Extend your `$HOME/.config/termite/config` with [`config`](https://raw.githubusercontent.com/kbobrowski/termite-snazzy/master/config)
 
 ## Related
 
