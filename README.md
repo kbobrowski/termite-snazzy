@@ -2,7 +2,7 @@
 
 > Elegant [Termite](https://github.com/thestinger/termite) theme with bright colors
 
-![](termite-snazzy.jpg)
+![](termite-snazzy.png)
 
 ## Install
 
