@@ -19,7 +19,7 @@ color5 = rgb(255,106,193)
 color6 = rgb(154,237,254)
 color7 = rgb(241,241,240)
 
-# other defaul termite colors
+# Other default termite colors
 color9 = #dca3a3
 color10 = #c3bf9f
 color11 = #f0dfaf
